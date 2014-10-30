@@ -1,6 +1,7 @@
 <p align="center"><a href="http://vuejs.org" target="_blank"><img width="100"src="http://vuejs.org/images/logo.png"></a></p>
 
 # Vue.js [![Build Status](https://travis-ci.org/yyx990803/vue.png?branch=master)](https://travis-ci.org/yyx990803/vue) [![Selenium Test Status](https://saucelabs.com/buildstatus/vuejs)](https://saucelabs.com/u/vuejs) [![Coverage Status](https://coveralls.io/repos/yyx990803/vue/badge.png)](https://coveralls.io/r/yyx990803/vue)
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/hunterc/vue?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 > MVVM made simple.
 
